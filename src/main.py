@@ -5,7 +5,6 @@ def hello():
 def bye():
     print("bye")
 
-
 def ret1():
     return 1
 
