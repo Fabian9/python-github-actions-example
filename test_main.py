@@ -1,5 +1,6 @@
 from main import ret1
 
+
 def capital_case(x):
     return x.capitalize()
 
