@@ -1,4 +1,4 @@
-from ..src.main import ret1
+from src.main import ret1
 
 
 def capital_case(x):
